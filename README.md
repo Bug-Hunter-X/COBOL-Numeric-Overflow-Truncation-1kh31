@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: numeric overflow.  The provided COBOL program attempts to add two five-digit numbers, but the receiving field is not large enough to hold the potential result. This can lead to unexpected results or program termination.  A solution is provided that addresses this issue by properly sizing the receiving field.
